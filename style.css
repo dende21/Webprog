@@ -1,0 +1,128 @@
+body
+{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+a#menulink
+{
+    margin:0;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color:#ffffff;
+    text-decoration: none;
+    font-size: 1.5em;
+    background-color: #000000;
+    
+}
+
+a#menulink:hover
+{
+    color:#000000;
+    background-color: #ffffff;
+    
+}
+
+a#footerlink
+{
+    color:#000000;
+}
+
+div#menu
+{
+    background-color: #000000;
+    margin:1.5em;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    padding-top: 0.9em;
+    padding-bottom: 0.9em;
+    
+}
+
+div#news
+{
+    text-align:center;
+    width: 50%;
+    height: 25%;
+    border: 1px solid #000000;
+    background-color: #cccccc;
+    padding:10px;
+}
+
+div#searchbar
+{
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+
+}
+
+div#footer
+{
+    padding-left: 1.3em;
+    padding-right: 1.3em; 
+    padding-top: 0.9em;
+    padding-bottom: 0.9em;
+}
+
+div#ranklist
+{
+    text-align:center;
+    width: 50%;
+    height: 25%;
+    border: 1px solid #000000;
+    background-color: #cccccc;
+    padding:10px;  
+}
+
+div#cheatbox
+{
+    text-align:center;
+    width: 70%;
+    padding:10px;  
+}
+
+img#newimg
+{
+    float:left;
+    margin:10px;
+}
+
+img#bluecorner
+{
+    width: 400px;
+    height: 350px;
+    border: 5px solid #004DFF;   
+    padding: 1.5em;
+    
+}
+img#redcorner
+{
+     width: 400px;
+    height: 350px;
+    border: 5px solid #FF0000;  
+    padding:1.5em;
+    
+}
+
+h2#cim
+{
+    text-align: left;
+    text-decoration: underline;
+    color:#133179;
+    
+}
+h2#rname
+{    
+    text-align: center;
+    text-decoration: underline;
+    color:#133179;
+    
+}
+span#input
+{
+    margin 1.2em;
+    
+    
+}
